@@ -35,4 +35,4 @@
 
 
 [instagram]: https://instagram.com/SuperSwaggyShy
-[linkedin]: https://www.linkedin.com/in/shayan-vafapisheh/
+[linkedin]: https://www.linkedin.com/in/amitoz-brar-86226a217/
