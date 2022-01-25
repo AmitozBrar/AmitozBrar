@@ -34,5 +34,5 @@
 <br />
 
 
-[instagram]:
+
 [linkedin]: https://www.linkedin.com/in/amitoz-brar-86226a217/
