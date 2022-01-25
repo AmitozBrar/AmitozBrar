@@ -5,8 +5,8 @@
 ## I'm a Student, Developer, and Gamer!!
 
 - 🌱 I’m currently learning JavaScript 😇
-- 👯 I am looking for more developing experience 
-- 🥅 2022 Goals: Gain more on-hand coding experience, contribute to group projects, learn as much as I can and make new friends!
+- 👯 I am looking to develope experience 
+- 🥅 2022 Goals: Gain on-hand coding experience, contribute to group projects, learn as much as I can and make new friends!
 - ⚡ Fun fact: I like to illustrate
 
 ### Connect with me:
@@ -34,5 +34,5 @@
 <br />
 
 
-[instagram]: https://instagram.com/SuperSwaggyShy
+[instagram]:
 [linkedin]: https://www.linkedin.com/in/amitoz-brar-86226a217/
