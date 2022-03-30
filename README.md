@@ -5,7 +5,7 @@
 ## I'm a Student, Developer, and Gamer!!
 
 - 🌱 I’m currently learning JavaScript 😇
-- 👯 I am looking to develope experience 
+- 👯 I am looking to develop experience 
 - 🥅 2022 Goals: Gain on-hand coding experience, contribute to group projects, learn as much as I can and make new friends!
 - ⚡ Fun fact: I like to illustrate
 
