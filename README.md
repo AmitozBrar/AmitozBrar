@@ -2,17 +2,14 @@
 
 
 
-## I'm a Student, Developer, and Gamer!!
+## I'm a Computer Science Student at the university of Windsor
 
 - 🌱 I’m currently learning JavaScript 😇
 - 👯 I am looking to develop experience 
-- 🥅 2022 Goals: Gain on-hand coding experience, contribute to group projects, learn as much as I can and make new friends!
+- 🥅 2023 Goals: Gain on-hand coding experience, contribute to group projects, learn as much as I can and make new friends!
 - ⚡ Fun fact: I like to illustrate
 
-### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
