@@ -4,10 +4,10 @@
 
 ## I'm a Computer Science Student at the university of Windsor
 
-- 🌱 I’m currently learning JavaScript 😇
-- 👯 I am looking to develop experience 
-- 🥅 2023 Goals: Gain on-hand coding experience, contribute to group projects, learn as much as I can and make new friends!
-- ⚡ Fun fact: I like to illustrate
+-  I’m currently learning Unity
+-  I am looking to develop experience 
+-  2023 Goals: Gain on-hand coding experience, contribute to group projects, learn as much as I can and make new friends!
+-  Fun fact: I like to illustrate
 
 
 
